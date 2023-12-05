@@ -8,14 +8,14 @@ import edu.charnte.servicios.operacionInterfaz;
 /**
  * <summary>
  * Clase principal del programa, donde se encuentra el Main
- * <author>CHI - 05-12-23</author>
+ * @author Carlos - 05-12-23
  * </summary>
  *  */
 public class Inicio {
 	/**
 	 * <summary>
 	 * Main del programa donde se encuentra la llamada a metodos, el while, switch, etc
-	 * <author>CHI - 05-12-23</author>
+	 * @author Carlos - 05-12-23
 	 * </summary>
 	 *  */
 

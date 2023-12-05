@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * <summary>
  * Clase donde se encuentra los métodos de la operativa.
- * <author>CHI - 05-12-23</author>
+ * @author Carlos - 05-12-23
  * </summary>
  *  */
 public class operacionImplementacion implements operacionInterfaz{
@@ -16,7 +16,7 @@ public class operacionImplementacion implements operacionInterfaz{
 	/**
 	 * <summary>
 	 * Interfaz donde se encuentran los métodos de la operativa
-	 * <author>CHI - 05-12-23</author>
+	 * @author Carlos - 05-12-23
 	 * </summary>
 	 *  */
 	public int venta()
@@ -36,7 +36,7 @@ public class operacionImplementacion implements operacionInterfaz{
 	/**
 	 * <summary>
 	 * Método donde se encuentra el gasto, pedirá un numero y lo restará a la cuenta.
-	 * <author>CHI - 05-12-23</author>
+	 * @author Carlos - 05-12-23
 	 * </summary>
 	 *  */
 	public int gasto() 
@@ -60,7 +60,7 @@ public class operacionImplementacion implements operacionInterfaz{
 	/**
 	 * <summary>
 	 * Método donde se muestra el dinero en caja y según el dinero mostrará un mensaje, otro o no mostrará nada.
-	 * <author>CHI - 05-12-23</author>
+	 * @author Carlos - 05-12-23
 	 * </summary>
 	 *  */
 	public int dinero() 
